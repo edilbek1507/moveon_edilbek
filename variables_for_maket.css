@@ -1,0 +1,16 @@
+:root {
+  /*! font family */
+  --main-family: "Jost", sans-serif;
+
+  /* !colors */
+  --main-color: #ffffff;
+  --secondary-color: #000000;
+  /* --primary-color: ; */
+  /*! font size; */
+  --main-size: 18px;
+  --header-size: 48px;
+  --nav-size: 20px;
+  --section-title-size: 46px;
+  --section-headers-size: 22px;
+  --section-footer-size: 28px;
+}
